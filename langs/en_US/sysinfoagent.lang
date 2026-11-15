@@ -1,0 +1,42 @@
+# Translation file
+
+#
+# Generic
+#
+
+# Module label 'ModuleSysinfoagentName'
+ModuleSysinfoagentName = Sysinfoagent
+# Module description 'ModuleSysinfoagentDesc'
+ModuleSysinfoagentDesc = Sysinfoagent description
+
+#
+# Admin page
+#
+SysinfoagentSetup = Sysinfoagent setup
+Settings = Settings
+SysinfoagentSetupPage = Sysinfoagent setup page
+NewSection=New section
+SYSINFOAGENT_MYPARAM1 = My param 1
+SYSINFOAGENT_MYPARAM1Tooltip = My param 1 tooltip
+SYSINFOAGENT_MYPARAM2=My param 2
+SYSINFOAGENT_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+SysinfoagentAbout = About Sysinfoagent
+SysinfoagentAboutPage = Sysinfoagent about page
+
+#
+# Sample page
+#
+SysinfoagentArea = Home Sysinfoagent
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
